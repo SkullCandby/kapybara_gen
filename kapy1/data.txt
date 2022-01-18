@@ -1,0 +1,21 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE0.png",
+    "tokenId": 0,
+    "name": "ADD_PROJECT_NAME_HERE 0",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "purple",
+	    "weight": 12
+        },
+        {
+            "trait_type": "acces",
+            "value": "pass",
+	    "weight": 150
+        },
+        {
+            "trait_type": "gen",
+            "value": "1; 1"
+        }
+    ]
+}

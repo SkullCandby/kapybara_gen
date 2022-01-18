@@ -1,0 +1,202 @@
+[
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs1",
+        "tokenId": 0
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body2",
+        "mask": "Legs1",
+        "tokenId": 1
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs1",
+        "tokenId": 2
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs3",
+        "tokenId": 3
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs3",
+        "tokenId": 4
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head3",
+        "glasses": "Glasses1",
+        "pin": "Body2",
+        "mask": "Legs1",
+        "tokenId": 5
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body2",
+        "mask": "Legs3",
+        "tokenId": 6
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "Glasses1",
+        "pin": "Body3",
+        "mask": "Legs3",
+        "tokenId": 7
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body2",
+        "mask": "Legs2",
+        "tokenId": 8
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head3",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs3",
+        "tokenId": 9
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs1",
+        "tokenId": 10
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head3",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs3",
+        "tokenId": 11
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs2",
+        "tokenId": 12
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body2",
+        "mask": "Legs2",
+        "tokenId": 13
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs3",
+        "tokenId": 14
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head3",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs2",
+        "tokenId": 15
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head3",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs1",
+        "tokenId": 16
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs2",
+        "tokenId": 17
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "Glasses1",
+        "pin": "Body1",
+        "mask": "Legs3",
+        "tokenId": 18
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head3",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs2",
+        "tokenId": 19
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body1",
+        "mask": "Legs2",
+        "tokenId": 20
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head1",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs2",
+        "tokenId": 21
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "Glasses1",
+        "pin": "Body2",
+        "mask": "Legs2",
+        "tokenId": 22
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body3",
+        "mask": "Legs1",
+        "tokenId": 23
+    },
+    {
+        "Background": "Background1",
+        "shoulder": "Head2",
+        "glasses": "pass",
+        "pin": "Body2",
+        "mask": "Legs1",
+        "tokenId": 24
+    }
+]

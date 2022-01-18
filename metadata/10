@@ -1,0 +1,19 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE10.png",
+    "tokenId": 10,
+    "name": "ADD_PROJECT_NAME_HERE 10",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Background1"
+        },
+        {
+            "trait_type": "shoulder",
+            "value": "Head1"
+        },
+        {
+            "trait_type": "glasses",
+            "value": "pass"
+        }
+    ]
+}
